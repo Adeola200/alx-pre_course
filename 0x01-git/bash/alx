@@ -1,4 +1,14 @@
 #!/bin/bash
 echo "ALX"
+^c
 
-[A
+root@e4c841f732f2:/alx-pre_course/0x01-git# cd bash
+root@e4c841f732f2:/alx-pre_course/0x01-gi/bash# ls
+root@e4c841f732f2:/alx-pre_course/0x01-git# cd bash ls
+root@e4c841f732f2:/alx-pre_course/0x01-git# 
+root@e4c841f732f2:/alx-pre_course/0x01-git# cd bash add .
+root@e4c841f732f2:/alx-pre_course/0x01-git/bash# clear
+^C
+root@e4c841f732f2:/alx-pre_course/0x01-git/js# touch index.js
+^c
+echo "ALX"
